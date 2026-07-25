@@ -72,7 +72,7 @@ The project includes:
 - Funnel Chart
 - Bar Chart
 
-#Run
+#Execution
 #SQL
 1. Open SQL Server Management Studio (SSMS).
 2. Import the dataset.
@@ -98,8 +98,4 @@ The project includes:
 - Excel Pivot Tables
 - Data Visualization
 - Python (Pandas & Matplotlib)
-
-#About Me
-I'm a Computer Science Engineering graduate with an interest in Data Analytics. I enjoy working with SQL, Excel, Python, and Power BI to solve business problems and learn from data.
-Thank you for checking out my project!
 
